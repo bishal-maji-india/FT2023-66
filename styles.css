@@ -1,0 +1,11 @@
+input{
+    background-color: green;
+    padding: 10px;
+    min-width: 150px;
+    color: white;
+    }
+.center{
+text-align: center;
+width: 1200px;
+margin: 0 auto;
+}
